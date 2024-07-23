@@ -1,0 +1,11 @@
+.env
+selenium-twitter-scraper/.env
+anushka_na.session
+scrape.session
+tel_config.ini
+test.session
+test.session-journal
+geckodriver.log
+channel_messages.json
+__pycache__
+tweets
